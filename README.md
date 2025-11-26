@@ -19,3 +19,8 @@ Sacrificamos la limpieza de la base de datos y aumentamos el riesgo de inconsist
 FREDS FURNITURE
 
 °Datos repetidos en los registros de ventas el nombre del cliente se repetía en cada venta. °Dependencias parciales, ya que algunos datos dependían solo de parte de una clave compuesta. °Ausencia de categorías separadas para los productos los tipos de muebles estaban mezclados en una sola tabla. °No había llaves foráneas definidas entre tablas relacionadas.
+
+https://dbdiagram.io/d/690430986735e1117098d69e
+
+<img width="1026" height="562" alt="image" src="https://github.com/user-attachments/assets/c8c261ac-1748-455b-94e6-b99a29249e4d" />
+
