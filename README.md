@@ -1,3 +1,5 @@
+//Jonathan Bernal Portuguez
+
 1¿Qué problema principal busca resolver la normalización en una base de datos y por qué es crítica en sistemas empresariales? Problema Principal:Eliminar la redundancia de datos (repetición innecesaria) y evitar las anomalías (errores/inconsistencias al insertar, actualizar o eliminar datos). Crítica Empresarial:Asegurar la integridad y consistencia de la información. Esto es vital para la fiabilidad de las operaciones, la contabilidad y la toma de decisiones empresariales.
 
 2.Describe con tus propias palabras las diferencias entre 1NF, 2NF y 3NF según los ejemplos del artículo.
